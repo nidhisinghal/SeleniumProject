@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Regression Test]">
+  <test name="Test Case 02(failed)">
+    <classes>
+      <class name="PageObjectFunctionTest.wordPress">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="forgetPass"/>
+        </methods>
+      </class> <!-- PageObjectFunctionTest.wordPress -->
+    </classes>
+  </test> <!-- Test Case 02(failed) -->
+</suite> <!-- Failed suite [Regression Test] -->
